@@ -2,7 +2,7 @@
 
 [CodeStack.Cafe](https://www.codestack.cafe) is a biggest hand-picked collection of most common coding interview questions for software developers. Prepare for your next programming interview in no time and get 6-figure job offer fast!
 
-> Yeah! 🧨 All Answers + PDF's available on [CodeStack.Cafe - Kill Your Coding Interview!](https://www.codestack.cafe).
+> Yeah! 🧨 All Answers + PDF's available on [CodeStack.Cafe - Kill Your Coding Interview](https://www.codestack.cafe)!
 
 ## <a name='toc'>Table of Contents</a>
  * [Arrays](#Arrays)
