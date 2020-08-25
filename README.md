@@ -4,12 +4,6 @@
 
 > Yeah! 🧨 All Answers + PDF's available on [CodeStack.Cafe - Kill Your Coding Interview!](https://www.codestack.cafe).
 
-<p align="center">
-  <a href="https://www.codestack.cafe/?promocode=GITHUB">
-  <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
-  </a>
-</p>
-
 ## <a name='toc'>Table of Contents</a>
  * [Arrays](#Arrays)
  * [Backtracking](#Backtracking)
