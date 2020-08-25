@@ -1,3 +1,15 @@
+# 300 Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [CodeStack.Cafe](https://www.codestack.cafe)
+
+[CodeStack.Cafe](https://www.codestack.cafe) is a biggest hand-picked collection of most common coding interview questions for software developers. Prepare for your next programming interview in no time and get 6-figure job offer fast!
+
+> Yeah! 🧨 All Answers + PDF's available on [CodeStack.Cafe - Kill Your Coding Interview!](https://www.codestack.cafe).
+
+<p align="center">
+  <a href="https://www.codestack.cafe/?promocode=GITHUB">
+  <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
+  </a>
+</p>
+
 ## <a name='toc'>Table of Contents</a>
  * [Arrays](#Arrays)
  * [Backtracking](#Backtracking)
