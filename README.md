@@ -1,4 +1,4 @@
-# 300 Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [CodeStack.Cafe](https://www.codestack.cafe)
+# 300 Coding Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of most common coding interview questions for software developers. Prepare for your next programming interview in no time and get 6-figure job offer fast!
 
