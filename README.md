@@ -2,7 +2,24 @@
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of most common coding interview questions for software developers. Prepare for your next programming interview in no time and get 6-figure job offer fast!
 
-> Yeah! 🧨 All Answers + PDF's available on [FullStack.Cafe - Kill Your Coding Interview](https://www.fullstack.cafe)!
+🔴  Get All Answers on [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=csiq)
+
+---
+
+## Machine Learning & Data Science Interview Questions 🤖🤖🤖
+
+👉 For 1299 ML & DataScience Interview Questions Check  [MLStack.Cafe - Kill Your Machine Learning, Data Science & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=fsiq)
+
+---
+
+<!-- 🔴👨‍💻[FullStack.Café + BLKFRD 50% OFF DEAL] - Kill Your Tech & Coding Interview 🪓. 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED and SOLVED). Get 50% OFF for LIFETIME Access Now only this BLKFRD. Use BLKFRD promo and Get Your Next Six-Figure Job Offer 💰💰💰 or use that link: 
+[>> Get 50% OFF for LIFETIME Now!](https://www.fullstack.cafe/?promocode=BLKFRD&utm_source=github&utm_medium=fsiq) -->
+
+<p align="center">
+  <a href="https://www.fullstack.cafe/?promocode=KILLITNOW&utm_source=github&utm_medium=csiq">
+  <img src="https://user-images.githubusercontent.com/13550565/96958623-a1acc500-1530-11eb-92b7-6f1508e630d9.png">
+  </a>
+</p>
 
 ## <a name='toc'>Table of Contents</a>
  * [Arrays](#Arrays)
