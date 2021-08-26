@@ -2,7 +2,7 @@
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of most common coding interview questions for software developers. Prepare for your next programming interview in no time and get 6-figure job offer fast!
 
-🔴  Get All Answers on [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=csiq)
+🔴  Get All Answers + PDFs on [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=csiq)
 
 ---
 
